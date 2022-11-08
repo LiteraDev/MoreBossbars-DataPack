@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "LiteraGame",
+            "bold": false
+        },
+        "description": {
+            "text": "All loaded data packs made by LiteraGame",
+            "color": "gold",
+            "bold": false
+        },
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: {Id: [I; -1972985312, 1561021915, -1373495127, -1785671472], Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY1OTk4MDM0MjI1NCwKICAicHJvZmlsZUlkIiA6ICI4YTY2YTIyMDVkMGI0ZGRiYWUyMjIwYTk5NTkwZDBkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaXRlcmFHYW1lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhOWQ1NDJiYTkxMDE1MjIzOTU1ZGU5Y2E0ZWVkNmY1YTA1NWJhOGM3NTFlMjQ1ZWE5ODVmZjY0ODg2YTM5OGQiCiAgICB9CiAgfQp9\"}]}}}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/block/blue_concrete.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
