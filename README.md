@@ -1,4 +1,4 @@
-# More Bossbars Datapack for Minecraft 1.19
+# More Bossbars Datapack for Minecraft 1.20
 
 This Datapack adds bossbars (like the ones that the Ender Dragon and the Wither Boss have) to other bosses and mini bosses in-game.
 
