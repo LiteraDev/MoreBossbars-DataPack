@@ -8,7 +8,7 @@
             "color": "gold"
         },
         "icon": {
-            "item": "minecraft:wither_skeleton_skull"
+            "item": "minecraft:piglin_head"
         },
         "frame": "task",
         "show_toast": true,
