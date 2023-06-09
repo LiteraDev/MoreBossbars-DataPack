@@ -1,6 +1,6 @@
-# More Bossbars Datapack for Minecraft
+# More Bossbars Data Pack for Minecraft
 
-This Datapack adds bossbars (like the ones that the Ender Dragon and the Wither Boss have) to minibosses in-game.
+This Data Pack adds bossbars (like the ones that the Ender Dragon and the Wither Boss have) to minibosses in-game.
 
 Minibosses included:
   - Elder Guardian
