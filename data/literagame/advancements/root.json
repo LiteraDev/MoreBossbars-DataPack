@@ -1,27 +1,34 @@
 {
     "display": {
-        "title": {
-            "text": "LiteraGame",
-            "bold": false
-        },
-        "description": {
-            "text": "All loaded data packs made by LiteraGame",
-            "color": "gold",
-            "bold": false
-        },
         "icon": {
-            "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: {Id: [I; -1972985312, 1561021915, -1373495127, -1785671472], Properties: {textures: [{Value: \"ewogICJ0aW1lc3RhbXAiIDogMTY1OTk4MDM0MjI1NCwKICAicHJvZmlsZUlkIiA6ICI4YTY2YTIyMDVkMGI0ZGRiYWUyMjIwYTk5NTkwZDBkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaXRlcmFHYW1lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhOWQ1NDJiYTkxMDE1MjIzOTU1ZGU5Y2E0ZWVkNmY1YTA1NWJhOGM3NTFlMjQ1ZWE5ODVmZjY0ODg2YTM5OGQiCiAgICB9CiAgfQp9\"}]}}}"
-        },
+            "id": "minecraft:player_head",
+            "components": {
+          	"minecraft:profile": {
+              "id": [993663538,-1604427873,-1112388138,745652001],
+              "properties":[
+                {
+                "name": "textures",
+                "value": "e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTViOWZkOTMzNjczNDhlOTQxYTFmY2YyZWE1MDczOWMyZWYwMGZjMTc2YjVjNzliMzJhOTFhMDAyZDQzZWM5NSJ9fX0="
+            }
+        ]
+      }
+    }
+  },
+        "title": "LiteraGame's Datapacks",
+        "description": "All loaded data packs made by LiteraGame",
+        "background": "minecraft:block/blue_concrete",
         "frame": "challenge",
-        "show_toast": true,
-        "announce_to_chat": false,
-        "hidden": false,
-        "background": "minecraft:textures/block/blue_concrete.png"
-    },
-    "criteria": {
+        "show_toast": false,
+        "announce_to_chat": false
+},
+"criteria": {
         "tick": {
             "trigger": "minecraft:tick"
         }
     }
 }
+        
+        
+    
+        
+    

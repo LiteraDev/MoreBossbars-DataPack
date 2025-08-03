@@ -1,29 +1,22 @@
 {
     "display": {
-        "title": {
-            "text": "More Bossbars"
-        },
+        "title": "More Bossbars v.1.0.1",
         "description": {
             "text": "All bosses are now equal.",
             "color": "gold"
         },
         "icon": {
-            "item": "minecraft:piglin_head"
+            "id": "minecraft:warden_spawn_egg"
         },
         "frame": "task",
         "show_toast": true,
         "announce_to_chat": false,
         "hidden": false
     },
+    "parent": "literagame:adventure",
     "criteria": {
         "tick": {
             "trigger": "minecraft:tick"
         }
-    },
-    "requirements": [
-        [
-            "tick"
-        ]
-    ],
-    "parent": "literagame:root"
+    }
 }
